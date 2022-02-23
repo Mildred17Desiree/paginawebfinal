@@ -1,0 +1,69 @@
+body{ background-color: rgb(255, 211, 229);
+        margin: 0px;
+}
+#caja{ background-color: rgb(255, 255, 255);
+
+}
+#footer{ background-color: rgb(214, 185, 197);
+
+}
+
+
+
+#Pdct1{ 
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 64px;
+    text-align: center;
+    color: rgb(255, 92, 119);
+}
+
+#Pdct2{ 
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 64px;
+    text-align: center;
+    color: rgb(250, 41, 76);
+}
+#Pdct3{ 
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 64px;
+    text-align: center;
+    color: rgb(5, 187, 51);
+}
+#caja{ 
+    font-family: 'Fjalla One', sans-serif;
+    font-size:25px;
+    text-align: center;
+    color: rgb(5, 187, 51);
+}
+#footer{ 
+    font-family: 'Fjalla One', sans-serif;
+    font-size:50px;
+    text-align: center;
+    color: rgb(51, 50, 49);
+}
+#TextQsoms{ 
+    font-family: 'Fjalla One', sans-serif;
+    font-size:50px;
+    text-align: center;
+    color: rgb(66, 30, 41);
+}
+#formu{
+    font-family: 'Fjalla One', sans-serif;
+    font-size:20px;
+    text-align: left;
+    color: rgb(252, 66, 122);
+}
+
+#v1{
+    font-family: 'Fjalla One', sans-serif;
+    font-size:40px;
+    text-align: left;
+    color: rgb(252, 66, 122);
+}
+
+#v2{
+    font-family: 'Fjalla One', sans-serif;
+    font-size:40px;
+    text-align: left;
+    color: rgb(89, 244, 255);
+}
